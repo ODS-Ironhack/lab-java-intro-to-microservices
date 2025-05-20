@@ -6,16 +6,18 @@
 Este proyecto está compuesto por 4 microservicios independientes que trabajan en conjunto:
 
 1. [Discovery Service](https://github.com/ODS-Ironhack/discovery-service.git)  
-   Registro y descubrimiento de servicios con Eureka.
+   Registro de servicios con Eureka.
 
 2. [Student Info Service](https://github.com/ODS-Ironhack/student-info-service.git)  
-   Gestión de información básica de los estudiantes.
+   Información básica de los estudiantes.
 
-3. [Student Catalog Service](https://github.com/ODS-Ironhack/student-catalog-service.git)  
-   Servicio que maneja el catálogo de cursos de los estudiantes.
+3. [Grades Data Service](https://github.com/ODS-Ironhack/grades-data-service)  
+   Servicio encargado de la gestión de las notas y cursos.
+   
+4. [Student Catalog Service](https://github.com/ODS-Ironhack/student-catalog-service.git)  
+   Servicio del catálogo de cursos, notas e información de los estudiantes.
 
-4. [Grades Data Service](https://github.com/ODS-Ironhack/grades-data-service)  
-   Servicio encargado de la gestión de notas y calificaciones.
+
 
 ---
 
